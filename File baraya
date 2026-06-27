@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BARAYA FAMILY.NET</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f5f5f5;
+}
+
+header{
+    background:#d50000;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+nav{
+    background:#111;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+
+.hero{
+    background:#ffffff;
+    padding:60px;
+    text-align:center;
+}
+
+.hero h1{
+    color:#d50000;
+}
+
+.btn{
+    display:inline-block;
+    background:#d50000;
+    color:white;
+    padding:15px 30px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+.section{
+    padding:50px;
+    text-align:center;
+}
+
+.card{
+    display:inline-block;
+    width:250px;
+    background:white;
+    margin:10px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+}
+
+footer{
+    background:#222;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>BARAYA FAMILY.NET</h1>
+<p>Penyedia Layanan Internet Cepat & Stabil</p>
+</header>
+
+<nav>
+<a href="#">Beranda</a>
+<a href="#">Tentang</a>
+<a href="#">Paket</a>
+<a href="#">Kontak</a>
+</nav>
+
+<section class="hero">
+<h1>Internet Cepat Untuk Rumah & Bisnis</h1>
+<p>Koneksi stabil dengan harga terjangkau.</p>
+<a class="btn" href="https://wa.me/6281234567890">Hubungi Kami</a>
+</section>
+
+<section class="section">
+<h2>Paket Internet</h2>
+
+<div class="card">
+<h3>10 Mbps</h3>
+<h1>Rp150.000</h1>
+<p>Cocok untuk rumah</p>
+</div>
+
+<div class="card">
+<h3>20 Mbps</h3>
+<h1>Rp250.000</h1>
+<p>Streaming & Gaming</p>
+</div>
+
+<div class="card">
+<h3>50 Mbps</h3>
+<h1>Rp450.000</h1>
+<p>Usaha & Kantor</p>
+</div>
+
+</section>
+
+<section class="section">
+<h2>Area Layanan</h2>
+<p>Kami melayani pemasangan internet di wilayah Pandeglang dan sekitarnya.</p>
+</section>
+
+<section class="section">
+<h2>Kontak</h2>
+<p>WhatsApp: 0812-3456-7890</p>
+<p>Email: info@barayafamily.net</p>
+</section>
+
+<footer>
+© 2026 BARAYA FAMILY.NET
+</footer>
+
+</body>
+</html>
